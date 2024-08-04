@@ -1,0 +1,35 @@
+{
+    "arrayList": [
+      {
+        "lang": "en-US",
+        "menus": [
+          "Menu1",
+          "Menu2",
+          "Menu3"
+        ],
+        "message": "Login to read the full article",
+        "buttonMsg": "Login"
+      },
+      {
+        "lang": "zh-Hans",
+        "menus": [
+          "菜单1",
+          "菜单2",
+          "菜单3"
+        ],
+        "message": "登录阅读全文",
+        "buttonMsg": "登录"
+      },
+      {
+        "lang": "pt-BR",
+        "menus": [
+          "Cardápio1",
+          "Cardápio2",
+          "Cardápio3"
+        ],
+        "message": "Faça login para ler o artigo completo",
+        "buttonMsg": "Conecte-se"
+      }
+    ]
+    
+  }
