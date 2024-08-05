@@ -29,6 +29,36 @@
         ],
         "message": "Faça login para ler o artigo completo",
         "buttonMsg": "Conecte-se"
+      },
+      {
+        "lang": "es-CO",
+        "menus": [
+          "Cardápio1",
+          "Cardápio2",
+          "Cardápio3"
+        ],
+        "message": "Faça login para ler o artigo completo",
+        "buttonMsg": "Conecte-se"
+      },
+      {
+        "lang": "ko-KR",
+        "menus": [
+          "Cardápio1",
+          "Cardápio2",
+          "Cardápio3"
+        ],
+        "message": "Faça login para ler o artigo completo",
+        "buttonMsg": "Conecte-se"
+      },
+      {
+        "lang": "ru-RU",
+        "menus": [
+          "Cardápio1",
+          "Cardápio2",
+          "Cardápio3"
+        ],
+        "message": "Faça login para ler o artigo completo",
+        "buttonMsg": "Conecte-se"
       }
     ]
     
